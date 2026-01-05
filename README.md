@@ -13,5 +13,4 @@ Bu proje, Kaggle üzerindeki öğrenci verilerini kullanarak final notlarını (
    Bu sonuçlar, öğrencilerin akademik başarısının sadece sayısal verilerle değil, dışsal faktörlerle de ilişkili olduğunu göstermektedir. 3.45'lik hata payı, 20 puanlık bir sistemde makul bir tahmin aralığı sunmaktadır.
 ## 🛠️ Kullanılan Teknolojiler
 - Python (Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn) Student-Performance-Analysis
-## 📊 Veri Analizi ve Görselleştirme
-Aşağıdaki grafikler öğrenci performansını etkileyen faktörleri göstermektedir:
+
