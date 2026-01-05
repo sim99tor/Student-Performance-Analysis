@@ -7,8 +7,8 @@ Bu proje, Kaggle üzerindeki öğrenci verilerini kullanarak final notlarını (
 - **Model:** Scikit-learn kütüphanesi ile Linear Regression modeli eğitildi.
 
 ## 📊 Sonuçlar
-- **R2 Score:** 0.XX (Kendi kod çıktındaki değeri buraya yaz)
-- **MAE:** X.XX (Kendi kod çıktındaki değeri buraya yaz)
+- **R2 Score:** 3.45
+- **MAE:** 0.22
 
 ## 🛠️ Kullanılan Teknolojiler
 - Python (Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn) Student-Performance-Analysis
