@@ -15,9 +15,3 @@ Bu proje, Kaggle üzerindeki öğrenci verilerini kullanarak final notlarını (
 - Python (Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn) Student-Performance-Analysis
 ## 📊 Veri Analizi ve Görselleştirme
 Aşağıdaki grafikler öğrenci performansını etkileyen faktörleri göstermektedir:
-
-![Korelasyon Haritası](korelasyon.png)
-*Şekil 1: Değişkenler arasındaki ilişkiyi gösteren Isı Haritası.*
-
-![Not Dağılımı](dagilim.png)
-*Şekil 2: Final notlarının (G3) dağılım grafiği.*
