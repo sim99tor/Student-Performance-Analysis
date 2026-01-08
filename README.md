@@ -7,8 +7,8 @@ Bu proje, Kaggle üzerindeki öğrenci verilerini kullanarak final notlarını (
 - **Model:** Scikit-learn kütüphanesi ile Linear Regression modeli eğitildi.
 
 ## 📊 Sonuçlar
-- **R2 Score:** 3.45
-- **MAE:** 0.22
+- **R2 Score:** 1.46
+- **MAE:** 0.76
 
    Bu sonuçlar, öğrencilerin akademik başarısının sadece sayısal verilerle değil, dışsal faktörlerle de ilişkili olduğunu göstermektedir. 3.45'lik hata payı, 20 puanlık bir sistemde makul bir tahmin aralığı sunmaktadır.
 ## 🛠️ Kullanılan Teknolojiler
